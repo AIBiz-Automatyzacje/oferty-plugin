@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "oferty": {
+      "type": "http",
+      "url": "https://app.traferto.pl/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.token}"
+      }
+    }
+  }
+}

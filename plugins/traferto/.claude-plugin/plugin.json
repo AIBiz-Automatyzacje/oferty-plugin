@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "traferto",
+  "displayName": "Traferto",
+  "version": "0.1.0",
+  "description": "Oferta B2B jako spersonalizowana strona dla klienta z analityką czytania. Trzy skille: „oferta” (od materiałów z rozmów do publikacji i maila), „omówienie” (co zrobić z tym, co klient przeczytał) i „biblioteka” (wiedza handlowa, która rośnie z każdą ofertą). Connector MCP do https://app.traferto.pl w komplecie.",
+  "author": {
+    "name": "Akademia Automatyzacji",
+    "url": "https://github.com/AIBiz-Automatyzacje"
+  },
+  "homepage": "https://app.traferto.pl/pomoc",
+  "repository": "https://github.com/AIBiz-Automatyzacje/oferty-plugin",
+  "license": "UNLICENSED",
+  "keywords": ["traferto", "oferta", "b2b", "sprzedaz", "mcp"],
+  "userConfig": {
+    "token": {
+      "type": "string",
+      "title": "Token Traferto",
+      "description": "Token z ekranu Ustawienia w panelu https://app.traferto.pl (zaczyna się od oo_). Pokazywany tylko raz; konto ma dokładnie jeden aktywny token.",
+      "sensitive": true,
+      "required": true
+    }
+  },
+  "mcpServers": "./.mcp.json"
+}

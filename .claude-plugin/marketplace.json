@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "oferty-plugin",
+  "description": "Marketplace Akademii Automatyzacji z pluginem Traferto: oferta B2B jako strona dla klienta, pisana rozmową z Claude'em według metody Wise Selling System.",
+  "owner": {
+    "name": "Akademia Automatyzacji",
+    "url": "https://github.com/AIBiz-Automatyzacje"
+  },
+  "plugins": [
+    {
+      "name": "traferto",
+      "source": "./plugins/traferto",
+      "description": "Skille „oferta”, „omówienie” i „biblioteka” plus connector MCP Traferto (https://app.traferto.pl). Po instalacji zostaje wklejenie tokenu z ustawień konta."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+# Słownik pojęć metody Wise Selling System
+
+> Pojęcia, którymi posługują się skille `oferta`, `omowienie` i `biblioteka`, z jednozdaniową
+> definicją. Własne słowa, nie cytaty; „Źródło" wskazuje publiczny materiał Szymona Negacza
+> (NSM — podcast „Nowoczesna Sprzedaż i Marketing", S — seria #WdrażamyNSM, Y — kanał YouTube)
+> z orientacyjną minutą, do którego można wrócić. Alfabetycznie.
+
+- **Abecadło sprzedaży** — mail z ofertą, który mówi klientowi, dlaczego cena jest taka, a nie inna; „większość firm go nie przepracowała". Źródło: S02 ok. 19:50–20:54.
+- **Aktualizacja cen** — nazwa podwyżki w komunikacie do klienta; brzmi jak techniczna czynność i budzi mniej emocji niż „podwyżka". Źródło: NSM236 ok. 24:12–24:43.
+- **Automatyczna analiza klienta** — automatyzacja (Let's Automate): po zgłoszeniu z formularza model zbiera dane o firmie ze strony i rejestrów, uzupełnia CRM i przypisuje handlowca. Źródło: NSM235 ok. 17:27–18:59.
+- **Badanie potrzeb (trzy obszary)** — rozmowa o (1) celu klienta, skwantyfikowanym, (2) tym, co robi, żeby go osiągnąć, (3) tym, z czym się przy tym boryka; Szymon nazywa „badanie potrzeb" najgłupszą nazwą na świecie, bo bada się problemy, nie potrzeby. Źródło: S09 ok. 13:55–20:09; S13 ok. 17:53 (typ spotkania 1).
+- **BANT / CHAMP** — cudze metody kwalifikacji; u Szymona tylko lista czterech obszarów do sprawdzenia w toku rozmowy (budżet, decydent, potrzeba, czas), nigdy ankieta. Źródło: NSM097 ok. 24:17–25:49.
+- **Buyer persona** — dokument o kliencie (segment × osoba), z listą problemów i wyzwań, aktualizowany z notatek z badań potrzeb; podstawa do ustalenia liczby i typów ofert oraz doboru wartości. Źródło: S09 ok. 25:44; S11 ok. 09:09; NSM137 ok. 13:26–13:58; NSM114 ok. 20:06–21:06; NSM301 ok. 19:30.
+- **Cel ofertowania** — jak najszybciej, jak najmniej inwazyjnie i jak najmniejszym kosztem poznawczym dostarczyć klientowi informacje, których aktualnie potrzebuje i które są dla niego dobre. Źródło: NSM258 ok. 15:55.
+- **Cofnięcie się z klientem w podróży zakupowej** — odtworzenie z klientem, co było wyzwalaczem, dlaczego taka koncepcja i jak doszedł do wyboru, zanim dostanie ofertę. Źródło: NSM012 bez minuty.
+- **„Co w związku z tym powinniśmy zrobić"** — druga sekcja oferty: koncepcja rozwiązania z odradzaniem złych opcji, kolejnością kroków i wartościami osadzonymi w problemie; miejsce na sprzedaż doradczą. Źródło: S11 ok. 19:59–20:59; NSM131 ok. 10:18.
+- **Customer Centric Selling** — cudza metodyka; Szymon bierze z niej zasadę „problemem nie jest dostać się do prezesa, tylko co powiesz, gdy się dostaniesz". Źródło: NSM108 ok. 06:41.
+- **Cykl / proces zakupowy (wersja Szymona)** — wyzwalacz → koncepcja → research/edukacja → wybór → szukanie najlepszej oferty; klienci proszą o ofertę na różnych jego etapach, a „jedynka" to problem, „dwójka" to koncepcja. Źródło: NSM012 bez minuty; NSM033 ok. 05:39; S11 ok. 14:52 (jedynka/dwójka); Y038 ok. 10:15–13:18 (trzy etapy: koncepcja / edukacja / wybór).
+- **Cztery momenty proszenia o ofertę** — (1) szukanie koncepcji, (2) tuż przed spotkaniem zarządu, (3) budżet zatwierdzony, klient walczy o cenę, (4) regularne zakupy stałego klienta; do każdego osobny dokument. Źródło: S11 ok. 09:09–14:22. Rozwinięcie: 7 scenariuszy w NSM258.
+- **Człowiek dyktafon** — postawa handlowca weryfikującego hipotezy z klientem: przedstawia 3 hipotezy problemów i tylko słucha. Źródło: NSM229 ok. 33:58–35:59.
+- **Dokument godzący komitet / FAQ pod AI** — osobny plik lub 2 strony drobną czcionką na końcu oferty z odpowiedziami na ok. 20 najczęstszych pytań całego komitetu; człowiek go nie czyta, ale model AI, do którego klient wrzuci PDF, odpowie waszym językiem. Źródło: NSM302 ok. 23:34–26:07; Y038 ok. 37:27–38:29; NSM131 ok. 16:26 (FAQ domykające „jedno TAK").
+- **Dopalacz (AI)** — przyspieszenie sprzedaży możliwe tylko w firmach ze zdigitalizowanym procesem i poprawnymi danymi. Źródło: NSM235 ok. 05:39–09:43.
+- **Dwa zadania wobec prezesa** — (1) udowodnić, że odróżniasz się od słabych sprzedawców, (2) być wytrwałym, ale nie irytującym. Źródło: NSM108 ok. 05:08–06:41.
+- **Dylemat decyzji** — klient nie kupuje, bo nie miał kiedy albo nie chciało mu się podjąć decyzji; leczony wspólnym planem kolejnych kroków w ofercie. Źródło: NSM033 ok. 30:15.
+- **Efekt aureoli** — ładna, profesjonalna oferta (albo znana marka/właściciel) wydaje się lepsza merytorycznie i obniża poczucie ryzyka. Źródło: NSM033 ok. 31:49; S11 ok. 30:12–31:44; NSM208 ok. 19:04–20:35.
+- **Etap koncepcji** — faza, w której klient szuka i porównuje kilka opcji; wtedy pokazuje się opcje w rozmowie, a w ofercie jedną. Źródło: NSM131 ok. 03:04–05:39; NSM033 ok. 05:39.
+- **Etap przygotowawczy** — miesiąc do trzech „przytulania się", w trakcie których klient może w pełni się wycofać. Źródło: NSM302 (pojęcie z notatki, bez minuty).
+- **Fair pricing (uczciwy pricing)** — cena zaszyta w poziomach usługi tak, by odpowiadała propozycji wartości dla danego segmentu. Źródło: NSM236 ok. 19:07–20:08.
+- **Faza wyczekiwania** — stan rynku 2025/2026, w którym 2/3 firm odkłada decyzje inwestycyjne, a klient ma argumenty i za czekaniem, i za działaniem. Źródło: NSM301 ok. 09:14–10:46; NSM302 ok. 05:13.
+- **Firmy z młotem i dłutem** — firmy bez procesu sprzedaży i bez danych poza ERP/księgowością; w polskim B2B wciąż grubo ponad połowa. Źródło: NSM235 ok. 05:39–07:10.
+- **Godzenie komitetu** — zestaw działań (spotkanie z całym komitetem, oferta z obiekcjami wszystkich ról, FAQ, business case, rozmowa referencyjna), które pomagają komitetowi podjąć wspólną decyzję. Źródło: NSM302 ok. 17:28–28:41.
+- **Granie kartami klienta** — handlowiec walczy ceną, bo to karta wyciągnięta przez klienta, zamiast wyciągnąć własne karty (wartości). Źródło: S02 ok. 20:54–21:26.
+- **Handlowiec, który „śmierdzi strachem"** — handlowiec straszony wewnątrz firmy; klient rozpoznaje go po follow-upach i tym, że przy pierwszym „nie" zdejmuje warstwy ceny. Źródło: NSM301 ok. 25:38–26:39.
+- **„I co z tego?"** — pytanie drążące zadawane każdej wartości tak długo, aż dojdzie się do tego, co znaczy dla klienta; wartość, która nie przechodzi testu, wypada z listy. Wariant: „dlaczego to jest dla mnie dobre?". Źródło: NSM229 ok. 26:45–28:17; S02 ok. 17:19–19:50; S11 ok. 21:59–23:00; NSM114 ok. 25:10–27:43.
+- **„Jak zrozumieliśmy Twoją sytuację"** — pierwsza strona oferty: problem, ból i konsekwencje klienta, nie lista potrzeb; oryginalny pomysł Sellwise (ok. 2021), najczęściej czytana strona ich ofert wg Sellizera. Źródło: NSM258 ok. 30:17; S11 ok. 14:52–16:54; Y038 ok. 20:30–21:31; NSM229 ok. 07:13.
+- **Komitet zakupowy** — kilka do kilkunastu osób podejmujących decyzję w B2B, nawet gdy rozmawiasz z prezesem; dyrektor finansowy jako „czarny koń", który najczęściej psuje proces. Źródło: NSM033 ok. 15:25; NSM302 ok. 17:28–17:58; Y038 ok. 07:10, 27:39.
+- **Koncepcja** — lekarstwo na ból znaleziony w badaniu potrzeb; serce oferty, które ma przekonać zamiast rabatu; przedstawiana na spotkaniu typu 2, w PDF lub mailem. Źródło: NSM033 ok. 24:07; S13 ok. 19:25–21:29.
+- **Koszt czekania** — element oferty pokazujący, ile klienta kosztuje odkładanie decyzji, bez straszenia. Źródło: NSM301 ok. 22:34–23:04; NSM302 bez minuty.
+- **Kotwica w ofercie** — droższy punkt odniesienia (np. opcja za 500 tys.), przy którym właściwa cena (100 tys.) staje się środkową, racjonalną opcją. Źródło: NSM258 ok. 40:00–41:01.
+- **Kwalifikacja / lead kwalifikowany** — lead to każdy, kto się odezwał; kwalifikowany to ten, komu firma naprawdę chce sprzedać (segment, budżet, decydent, potrzeba, czas); formalny proces z odgórnym przyzwoleniem na odrzucanie. Źródło: NSM097 ok. 03:36–06:10; NSM065 ok. 34:26–35:27; NSM301 ok. 20:31–22:03 (wersja pod fazę wyczekiwania: „czy klient ma powód, żeby zdecydować w 3 miesiące").
+- **Kwiatek w jałowej ziemi** — firma sprzedająca to samo, tym samym, w tej samej cenie i licząca na wzrost; wiadro z wodą 20 cm obok = nieużywane przewagi. Źródło: NSM208 ok. 01:04–02:05, 28:56–29:58.
+- **Lęk przed utratą sprzedaży** — najsilniejszy lęk handlowca, przez który sam schodzi na cenę i daje rabaty. Źródło: NSM065 ok. 08:19–08:50.
+- **Lista wartości / dokument ogólnodostępny** — dwie kolumny: nazwa wartości + „jak o niej opowiadamy", z opiekunem (PM), który dopisuje nowe; źródło dla ofert, maili, strony i rozmów. Źródło: S02 ok. 29:05, 33:44–36:46, 38:48.
+- **Macierz etap × segment** — siatka (koncepcja / edukacja / wybór) × (JDG / SMB / enterprise); każde pole dostaje własny wariant oferty. Źródło: Y038 ok. 15:54–17:27.
+- **Macierz segmenty × grupy produktowe** — tabela z medianą ceny i marży w każdej komórce; punkt wyjścia do porządkowania pricingu; segmentacja A/B/C/D po przychodzie z 12 miesięcy (40/30/20/10%). Źródło: NSM236 ok. 06:40–09:45.
+- **Malowanie słowami obrazów w głowie rozmówcy** — łączne użycie czterech umiejętności: precyzji wypowiedzi, emisji głosu, storytellingu i wystąpień publicznych. Źródło: NSM102 (pojęcie z notatki, bez minuty).
+- **Małpka z talerzykami** — klient, który traktuje dostawcę jak cyrk; kwalifikacja ma go odsiać. Źródło: NSM097 ok. 10:50–11:20.
+- **„Mamy i się znamy"** — dawna, jedyna propozycja wartości polskiego B2B (towar na magazynie + znajomość = dłuższy termin płatności); dziś niewystarczająca. Źródło: NSM229 ok. 09:16–11:19.
+- **Mapa wartość → persona** — lista 30–60 wartości po lewej, persony z problemami po prawej, łączone w Excelu; ok. 10–12 wartości na personę zasila przygotowanie handlowca, landing marketingu i ofertę. Źródło: NSM114 ok. 20:06–24:39.
+- **„Niby jak?"** — pytanie, które klient zadaje w głowie, gdy słyszy przewagę bez mechanizmu; trzeba na nie odpowiedzieć od razu, inaczej 9 na 10 klientów wątpi. Źródło: NSM229 ok. 30:19–31:24.
+- **Obiekcje „spadaj" / do koncepcji / do firmy** — trzy kategorie obiekcji leżące w różnych momentach procesu zakupu: „spadaj" (start prospectingu; sygnał złej metody, nie do zbijania), do koncepcji (klient dopiero wybiera rodzaj rozwiązania; rozbrajane edukacją i storytellingiem), do firmy (koniec procesu; jedyna kategoria na spisaną listę odpowiedzi). Źródło: NSM099 ok. 06:12–11:52.
+- **Oferta incydentalna vs poważna** — incydentalna to wycena pozycji dla stałego klienta (obsługa, nie sprzedaż); poważna ma skłonić do dużego zakupu lub stałej współpracy, jest poprzedzona spotkaniami i idzie do komitetu. Źródło: NSM033 ok. 02:03; S11 ok. 11:17–12:18.
+- **Oferta jako zdalny handlowiec** — dokument broniony na komitecie przez osobę bez doświadczenia sprzedażowego (np. HR przed zarządem); musi odpowiadać na pytania zarządu (problem, ROI, kto, doświadczenie, kroki). Źródło: NSM258 ok. 37:26–39:29.
+- **Oferta jest wynikiem rozmowy, nie jej początkiem** — zasada nadrzędna procesu ofertowania. Źródło: NSM258 ok. 09:44–10:45; Y038 ok. 06:10–07:10.
+- **Oferta na jedno TAK** — oferta zawierająca wszystko, czego decydent (także nieobecny na spotkaniu) potrzebuje, by odpowiedzieć wyłącznie „tak" albo „nie": jedna wycena na opcję wybraną w rozmowie, zero decyzji do podjęcia po stronie klienta. Źródło: NSM131 ok. 06:41–10:18; Y038 ok. 35:25–37:27; NSM302 ok. 17:58–21:03 (jako „oferta z jedną drogą").
+- **Oferta na 1500 wątpliwości** — przeciwieństwo oferty na jedno TAK: wiele wycen, opcji i decyzji do podjęcia po stronie komitetu. Źródło: NSM131 ok. 06:41.
+- **Oferta na dwa razy TAK** — para ofert: najpierw audyt/analiza (jedno TAK), po nim wdrożenie z wyceną (drugie TAK); gdy potrzeb nie da się uczciwie wycenić w ciemno. Źródło: NSM131 ok. 12:20–14:21.
+- **Oferta „na zająca"** — oferta wyłudzona tylko po to, by zbić cenę u innego dostawcy. Źródło: S09 ok. 12:55–13:25.
+- **Oferty dla zasady** — oferty wysyłane każdemu z automatu, także „na zapas" pod KPI; do wycięcia. Źródło: NSM258 ok. 11:46, 46:44.
+- **Opener** — jedno duże otwarte pytanie na start badania: „czym się zajmujecie i co was do nas sprowadziło". Źródło: S09 ok. 20:09–20:39; NSM097 ok. 23:14 (wzór podobny).
+- **Osiem stolików** — 8 godzin dnia handlowca jako miejsca w restauracji, które trzeba obsadzić właściwymi klientami (metafora Arka Chludzińskiego). Źródło: NSM097 ok. 05:07–06:10.
+- **Osoby strzegące prezesa** — sekretariat i ludzie przed prezesem, którym trzeba sprzedać najpierw i od których bierze się podstawowe informacje. Źródło: NSM108 ok. 12:13–15:15.
+- **OTIF (on time in full)** — miara terminowości: towar na czas i kompletny; wyróżnik klienta z 99,4%. Źródło: NSM208 ok. 11:54–12:25.
+- **Pięć znaczeń „za drogo"** — wobec średniej rynku, wobec budżetu, wobec tego samego produktu, „bo negocjuję", „bo nie wiem, co powiedzieć". Źródło: Y111 ok. 01:31–05:38.
+- **Podsumowanie (zamiast „oferta")** — dokument, z którego klient nie dowiaduje się niczego nowego ponad to, co ustalono w rozmowach; także nazwa jedynego pliku w mailu. Źródło: NSM033 ok. 08:15, 12:21; Y107 ok. 02:04; NSM258 ok. 31:51.
+- **Pricing bardziej zrozumiały** — cena, którą klient rozumie i przewiduje (skąd wynika, co się z nią stanie); alternatywa dla ceny niższej. Źródło: NSM208 ok. 16:31–18:32.
+- **Pricing power** — zdolność brania wyższej ceny, którą zapełnia marka i postrzegana wartość. Źródło: Y111 ok. 15:20–17:22.
+- **Problem / wyzwanie / potrzeba** — problem: coś, co nie daje spać i jest dzisiaj; wyzwanie: pozytywna wizja przyszłości; potrzeba: to, z czym klient przychodzi („chcę CRM"), zawsze zrodzona przez problem lub wyzwanie. Problemy idą do prospectingu, wyzwania do marketingu (para lustrzana). Źródło: NSM137 ok. 03:40–07:48, 09:19–14:28; S09 ok. 09:19–10:50.
+- **Produkty run rate** — produkty potrzebne większości klientów, sprzedawane na niskiej marży, by wprowadzić klienta w nową grupę produktową. Źródło: NSM235 ok. 14:56–16:26; NSM236 ok. 18:06–18:36.
+- **Propozycja wartości (value proposition)** — to, co realnie rozwiązuje problem klienta, ogranicza jego ryzyko lub pomaga osiągnąć wyzwanie w jego konkretnej sytuacji; Szymon używa angielskiej nazwy, by nie mylić z „wartościami firmy". Źródło: NSM229 ok. 11:50.
+- **Prosty pierwszy krok** — mały, łatwy do zaakceptowania etap o dużej wartości przed właściwą współpracą: na zamówieniu/regulaminie, po niewielkiej przedpłacie, z jasnym planem i punktem wyjścia. Źródło: NSM302 ok. 05:13–09:48; NSM301 ok. 22:34–23:36.
+- **Przed / w trakcie / po** — trzy perspektywy procesowania każdego spotkania sprzedażowego. Źródło: S13 ok. 24:01–27:39.
+- **Pseudo-wartości** — ogólniki (zaangażowany zespół, heritage, doświadczenie, jakość), którymi nie da się uzasadnić ceny. Źródło: S02 ok. 12:15–12:45, 27:34–28:35.
+- **Pytanie o wnioski** — na omówieniu oferty: „jakie ma pan wnioski po naszej ofercie?" zamiast „jak pan ocenia" czy „czy się podobała". Źródło: NSM258 ok. 48:14–48:45; NSM049 ok. 23:09.
+- **Rana vs złamanie** — metafora pokazywania złożoności problemu na pierwszej stronie oferty, żeby klient nie prosił o „plasterek". Źródło: S11 ok. 16:54–18:25.
+- **Rozszerzony NPS** — badanie satysfakcji, które poza wynikiem mówi, z czego konkretnie klient jest zadowolony lub nie; wsad do „why us". Źródło: NSM065 ok. 14:25–16:26.
+- **Rozwarstwienie rynku** — podział segmentów na „stoją / spadają / drgnęły / rosną" na danych publicznych i własnym lejku. Źródło: NSM301 ok. 08:42–09:14, 19:00–20:31.
+- **Różnica statusu** — im mniejsza między nadawcą a prezesem, tym większa szansa na rozmowę; marka osobista ją zmniejsza. Źródło: NSM108 ok. 09:41–12:13.
+- **Ryzyko niskich cen** — zestaw ryzyk biznesowych tańszego rozwiązania, które handlowiec ma umieć nazwać w języku biznesu klienta. Źródło: NSM065 ok. 24:07–27:11.
+- **Sales velocity** — średnia wielkość szansy × liczba szans × skuteczność ÷ średni czas trwania szansy. Źródło: NSM235 ok. 24:40–25:40.
+- **Schemat proktologa** — przed pytaniami wytłumacz klientowi, po co je zadajesz, ile ich będzie i co da, i poproś o zgodę. Źródło: NSM137 ok. 14:58–15:59; S09 ok. 12:24–13:25; NSM229 ok. 06:12.
+- **Siedem scenariuszy „proszę o ofertę"** — (1) etap koncepcji, (2) edukacja z wybranego rozwiązania, (3) szuka najlepszego dostawcy z czasem, (4) ASAP, (5) kupi gdziekolwiek, (6) oferta do zbicia ceny lub pod system „3 oferty", (7) wymuszona przez handlowca. Źródło: NSM258 ok. 07:13–11:46.
+- **Slajd cross-sellingowy** — strona „co jeszcze można u nas kupić" pod koniec oferty, po treściach dla klienta i cenie. Źródło: NSM033 ok. 29:43; S11 ok. 33:23; Y038 ok. 32:19–33:53.
+- **Spotkanie, za które prezes by zapłacił** — miara wartościowego spotkania handlowego; zmienia agendę na insight, nowe rozwiązanie, nieznany problem. Źródło: NSM108 ok. 23:55–24:56.
+- **Spotkanie sprzedażowe vs prospectingowe vs networkingowe** — sprzedażowe ma cel i rezultat w procesie zakupu klienta; „na kawę", „żeby się poznać" to prospecting lub networking, poza procesem sprzedaży. Źródło: S13 ok. 03:05–04:07, 13:49–15:21.
+- **Spotkania = najdroższa waluta sprzedaży** — jedno spotkanie na żywo to często dzień pracy 2–3 osób. Źródło: S13 ok. 18:24–19:25.
+- **Sprzedawca doradczy vs transakcyjny („zbieracz zamówień")** — doradczy wchodzi w kontekst i może zmienić potrzebę klienta; transakcyjny może tylko zaoferować produkt i zastępuje go technologia. Źródło: NSM137 ok. 08:48–09:19, 16:29–17:32; NSM065 ok. 27:11–29:42.
+- **Standard notatki** — stały układ notatki z badania w CRM: cele, działania, problemy; test, czy handlowiec umie badać potrzeby. Źródło: S09 ok. 21:09–22:40.
+- **Steruj działaniami, nie wynikami** — zasada z książek, którą Szymon uzupełnia: cel na działanie ma opisywać rezultat działania, nie samo działanie. Źródło: S13 ok. 09:44–13:49.
+- **Struktura historii (wersja Szymona)** — bohater i wprowadzenie → wszystko idzie świetnie → nagła trudność → rozwiązanie → sukces plus rezultat liczbowy. Źródło: NSM102 ok. 25:47–27:50.
+- **Sztafeta ofertowa** — handlowiec (kwalifikacja, problem) → dobrany ekspert (koncepcja i gotowy wkład do oferty) → handlowiec lub junior (dokument, wysyłka). Źródło: NSM258 ok. 22:03–24:06.
+- **Ścieżki ofertowania** — osobne podprocesy (min. dwa: wczesny i późny etap zakupu), różne dokumenty i formaty; Wise Group ma ich 15–16. Źródło: NSM258 ok. 12:18–13:20.
+- **Święta zasada Sellwise** — jeśli nie możemy pomóc albo nie przyniesiemy rezultatu biznesowego, mówimy o tym klientowi. Źródło: NSM097 ok. 19:35; S09 ok. 24:43–25:44; NSM301 ok. 20:31–21:01.
+- **Test kaczki** — informacja, której klient nie czyta mimo 15 poprawek, jest niepotrzebna i wypada z oferty. Źródło: NSM258 ok. 20:00.
+- **Test wspólnika** — wyobraź sobie, że klient powtarza twój argument wspólnikowi; jeśli wspólnik odpowie „co ty gadasz", argument jest do wyrzucenia. Źródło: NSM065 ok. 19:30–21:32.
+- **Timeline w ofercie** — oś czasu od dnia otrzymania oferty przez kamienie milowe do rezultatu, z zaznaczeniem, gdzie klient jest w podróży. Źródło: NSM033 ok. 28:43; S11 ok. 33:23; Y038 ok. 40:01–43:05.
+- **Trzy obszary / warstwy / wymiary wartości** — (1) produkt/usługa, (2) obsługa (jak dostarczacie), (3) wartości dodane poza produktem i obsługą; praktyczna alternatywa dla Value Proposition Canvas. Źródło: NSM114 ok. 15:57–18:32; S02 ok. 12:45–16:49; NSM229 ok. 12:22–14:24; Y111 ok. 12:48–14:20.
+- **Trzy rzeczy, które kupuje klient wyczekujący** — obniżenie ryzyka, szybki zwrot (do 12 miesięcy), odwracalność decyzji. Źródło: NSM301 ok. 22:03–22:34.
+- **Trzy sporty** — (1) mieć wartości, (2) dopasować je do klientów, (3) umieć je zakomunikować. Źródło: NSM114 ok. 27:12–27:43; Y111 ok. 14:50–15:20 (trzy warunki obrony ceny).
+- **Trzy typy klientów B2B** — kupujący najtaniej (ryzyko ich nie obchodzi), kupujący najdrożej (niskie ryzyko warte każdych pieniędzy) i większość w środku, która porównuje i musi zobaczyć różnicę. Źródło: NSM114 ok. 04:42–07:46.
+- **Trzy typy spotkań w procesie** — badanie problemów/potrzeb, prezentacja koncepcji, dogadanie warunków. Źródło: S13 ok. 17:53–23:00.
+- **Trzy typy stanowisk** — operacyjne, poprawiające proces, prezes; każde ma inne problemy, prezesowi adresuj tylko jego. Źródło: NSM108 ok. 17:17–19:19.
+- **USP (Unique Selling Proposition)** — jedna unikalna korzyść; według Szymona w B2B tylko marketingowy haczyk, nie decyduje o zakupie („i co z tego"). Źródło: NSM114 ok. 09:48–12:25.
+- **Value Proposition Canvas** — cudza mapa pains/gains; użyteczna przy jednym segmencie, przy 5 segmentach × 5 osób daje 25 map nieużytecznych dla handlowców. Źródło: NSM114 ok. 12:25–15:57.
+- **Warsztat wartości** — interdyscyplinarny warsztat 4–8 h (produkcja, jakość, obsługa, dyrektor, prezes): tłumaczenie pojęcia → wypisywanie z ok. 40 pytaniami pomocniczymi → test „i co z tego?" → wspólna lista min. 20–30 (docelowo 50–60) → opiekun listy. Źródło: S02 ok. 28:35–29:05, 33:44–36:46; NSM114 ok. 18:32–20:36 (ok. 10 dni pracy zespołu).
+- **Warsztat zerowy** — pierwszy etap współpracy Sellwise z klientem: przegląd wszystkich procesów sprzedażowych i szukanie źródła problemu. Źródło: NSM102 ok. 03:36–08:14.
+- **Warsztat diagnostyczny** — pierwszy płatny krok współpracy w spółkach WiseGroup: diagnoza sytuacji i harmonogram dalszych działań; typowa „oferta na jedno TAK". Źródło: Y038 ok. 35:25–37:27.
+- **Wartości dodane** — to, co jest obok produktu i obsługi, za co klient nie płaci (podcast NSM, lokalizacja przy lotnisku); trzecia warstwa wartości. Źródło: S02 ok. 15:48–16:49; NSM114 ok. 17:30; NSM229 ok. 13:53–14:24; NSM065 ok. 21:32–23:35.
+- **Wata słowna** — wypełniacze i „profesjonalne" słowa, które wydłużają wypowiedź i nic nie wnoszą; lekarstwo: podzielić przez trzy. Źródło: NSM049 ok. 29:18–31:19; NSM102 ok. 16:28–17:30 (ćwiczenie 10→6→3 zdania).
+- **Why us / Why change / Why stay** — trzy pytania wypracowane zespołowo na trzech kartkach: dlaczego nas wybrać, dlaczego zmienić konkurencję na nas, dlaczego z nami zostać. Źródło: NSM065 ok. 16:58–19:30.
+- **Wiadomość „ja, ja, ja"** — wiadomość przeładowana treścią o nadawcy zamiast o odbiorcy; wspólny mianownik spamu na LinkedIn. Źródło: NSM089 ok. 24:59–25:31, 36:27–36:58.
+- **Współczynnik akceptacji podwyżki** — odsetek klientów, którzy przyjmują nową cenę (80–90% przy podciąganiu do mediany, 95–98% w Sellwise, 60% przy nieznanej marce). Źródło: NSM236 ok. 10:16–12:19, 14:55–15:59, 22:41–23:11.
+- **Współczynnik bezczynności klientów** — jak trudno klientowi odejść od dostawcy; im wyższy, tym bezpieczniejsza podwyżka. Źródło: NSM236 ok. 13:54–14:55.
+- **Wycofanie oferty** — mail, w którym handlowiec bierze winę na siebie, unieważnia ofertę i zaprasza do powrotu; narzędzie na milczącego klienta. Źródło: NSM012 bez minuty.
+- **Wyróżnik w B2B (jedno zdanie)** — wszystko, co obniża poczucie ryzyka u klienta albo oszczędza mu czas i pieniądze; 20 pomysłów z rynku. Źródło: NSM208 ok. 07:47.
+- **Zadanie za klienta przed / po zakupie** — wykonanie za klienta istotnego, bolesnego zadania (konfiguracja, migracja, usługa towarzysząca) jako propozycja wartości. Źródło: NSM208 ok. 25:47–27:51; NSM302 ok. 15:27–16:58.
+- **Zakazane zwroty** — fraz z rozmów i ofert, które Szymon każe wykreślić, bo usztywniają klienta albo obniżają zaufanie (lista w self-checku skilla `oferta`). Źródło: NSM049 ok. 04:04–33:23.
+- **Zero tarcia** — sześć usprawnień wejścia we współpracę: oferta w 24 h, telefon zamiast maila, jedna osoba kontaktowa, prosta umowa z tabelą na pierwszej stronie, ankieta wypełniana z klientem, podpis elektroniczny. Źródło: NSM302 ok. 29:12–35:52.
