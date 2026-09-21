@@ -59,6 +59,8 @@ Chat nie czyta pluginów (dokumentacja Anthropic: „Plugins are available in Co
 
 `scripts/pakuj-chat.sh` buduje `dist/chat/oferta.zip`, `omowienie.zip` i `biblioteka.zip` **z tych samych plików**, co plugin: każdy ZIP dostaje własną kopię `wiedza/`, a odwołania `${CLAUDE_PLUGIN_ROOT}/wiedza/…` schodzą na ścieżki względne. ZIP-ów nie edytuje się ręcznie; gotowe leżą w [Releases](https://github.com/AIBiz-Automatyzacje/oferty-plugin/releases/latest). Wgrywasz je w aplikacji Claude: Customize → Skills → dodaj skill z pliku, każdy ZIP osobno.
 
+ZIP-y wgrywaj **tylko wtedy, gdy używasz Chatu**. Skill wgrany do claude.ai jest widoczny także w Claude Code — kto ma i plugin, i ZIP-y, ma tam dwie kopie każdego skilla, a Claude może wybrać starszą.
+
 W Chacie `biblioteka/` to pliki projektu w aplikacji, nie katalog na dysku — skill nie zapisuje plików sam, tylko oddaje gotowe wpisy do dodania. Po aktualizacji pluginu ZIP-y trzeba wgrać ponownie (Chat nie aktualizuje skilli z marketplace).
 
 ## Struktura repozytorium
