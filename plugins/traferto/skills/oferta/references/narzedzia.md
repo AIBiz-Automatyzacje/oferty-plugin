@@ -1,7 +1,9 @@
 # Narzędzia MCP Traferto (serwer `oferty`)
 
-Z pluginu narzędzia mają nazwy `mcp__plugin_traferto_oferty__<narzędzie>`; przy ręcznie dodanym
-serwerze `oferty:<narzędzie>`. Każde narzędzie ma własny opis i schemat wejścia w kliencie —
+Nazwy narzędzi zależą od tego, skąd przychodzi serwer: z pluginu (Claude Code, Cowork)
+`mcp__plugin_traferto_oferty__<narzędzie>`; z connectora w Chacie aplikacji Claude sama nazwa
+`<narzędzie>` (np. `lista_szablonow`); przy ręcznie dodanym serwerze `oferty:<narzędzie>`.
+Szukaj po końcówce nazwy, nie po prefiksie. Każde narzędzie ma własny opis i schemat wejścia w kliencie —
 tu są tylko rzeczy, których ze schematu nie widać, a które kończą się odmową albo trwałą wadą
 w opublikowanej ofercie.
 

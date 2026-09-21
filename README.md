@@ -43,9 +43,23 @@ Plugin jest jeden dla wszystkich i niesie wyłącznie **metodę**. Wszystko, co 
 
 Aktualizacja pluginu nie dotyka niczyjej biblioteki.
 
-## Aplikacja Claude na desktopie
+## Trzy drogi: Claude Code, Cowork, Chat
 
-Skille działają też bez Claude Code: dodaj katalog `plugins/traferto/skills/<nazwa>` jako skill w aplikacji, a `biblioteka/` jako pliki projektu. Skill nie zapisuje wtedy plików sam — oddaje gotowe wpisy do wklejenia. Connector MCP podłącza się w ustawieniach aplikacji adresem `https://app.traferto.pl/mcp` przez OAuth (instrukcja na ekranie Pomoc w panelu).
+Ten sam plugin obsługuje trzy miejsca pracy. Różni je to, skąd biorą skille i jak podłączają connector.
+
+| Gdzie pracujesz | Skille | Connector MCP |
+|---|---|---|
+| **Claude Code** (terminal albo zakładka Code w aplikacji) | plugin z tego repozytorium (sekcja „Instalacja") | z pluginu, token z Ustawień panelu |
+| **Cowork** w aplikacji Claude | plugin: Customize → Plugins → Add marketplace → `AIBiz-Automatyzacje/oferty-plugin` → Install | z pluginu |
+| **Chat** w aplikacji Claude | **trzy ZIP-y** z Releases (niżej), wgrane w Customize → Skills | connector w Ustawieniach aplikacji adresem `https://app.traferto.pl/mcp` przez zgodę (OAuth); instrukcja na ekranie Pomoc w panelu |
+
+Chat nie czyta pluginów (dokumentacja Anthropic: „Plugins are available in Cowork and Code. They aren't used in Chat"), więc dla Chatu skille są pakowane osobno.
+
+### ZIP-y dla Chatu
+
+`scripts/pakuj-chat.sh` buduje `dist/chat/oferta.zip`, `omowienie.zip` i `biblioteka.zip` **z tych samych plików**, co plugin: każdy ZIP dostaje własną kopię `wiedza/`, a odwołania `${CLAUDE_PLUGIN_ROOT}/wiedza/…` schodzą na ścieżki względne. ZIP-ów nie edytuje się ręcznie; gotowe leżą w [Releases](https://github.com/AIBiz-Automatyzacje/oferty-plugin/releases/latest). Wgrywasz je w aplikacji Claude: Customize → Skills → dodaj skill z pliku, każdy ZIP osobno.
+
+W Chacie `biblioteka/` to pliki projektu w aplikacji, nie katalog na dysku — skill nie zapisuje plików sam, tylko oddaje gotowe wpisy do dodania. Po aktualizacji pluginu ZIP-y trzeba wgrać ponownie (Chat nie aktualizuje skilli z marketplace).
 
 ## Struktura repozytorium
 
