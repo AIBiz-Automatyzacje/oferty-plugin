@@ -34,7 +34,9 @@ Gdy `biblioteka/` nie istnieje:
    w katalogu projektu (w aplikacji Claude na desktopie: oddaj pliki handlowcowi do dodania
    jako pliki projektu).
 2. Przeprowadź krótki wywiad do `o-nas.md` — to jedyny plik, którego nie da się wypełnić bez
-   handlowca. Pytaj po jednym, z propozycją na podstawie tego, co już wiesz z projektu:
+   handlowca. **Jedno pytanie na wiadomość**, z propozycją na podstawie tego, co już wiesz
+   z projektu; czekaj na odpowiedź, zanim zadasz następne (lista czterech pytań naraz to
+   formularz, nie wywiad):
    - Komu pomagamy (segment, wielkość firmy, rola rozmówcy) i z jakim problemem przychodzą?
    - Czego **nie** robimy albo komu odradzamy współpracę? (To buduje wiarygodność w ofercie.)
    - Lista wartości: co robimy inaczej niż inni — i za każdym razem „i co z tego?" dla klienta,
@@ -45,6 +47,13 @@ Gdy `biblioteka/` nie istnieje:
    powstać z jedną dobrą realizacją.
 
 Nie przedłużaj wywiadu ponad to, co potrzebne do pierwszej oferty. Reszta dojdzie z pracy.
+
+**Założenie biblioteki to skopiowanie plików startowych i wywiad — nie dopisanie treści.**
+Jeśli w projekcie jest już oferta albo odpowiedzi handlowca z pytań skilla `oferta` (realizacje,
+opinie, zespół, obiekcje), NIE przepisuj ich do plików w tym samym ruchu. „Załóż mi bibliotekę"
+to zgoda na katalog i pliki startowe, nie na wpisy. Wpisy z tej oferty przechodzą tę samą drogę,
+co każde inne dopisanie (sekcja niżej): zaproponuj gotowe, handlowiec zatwierdza, dopiero potem
+zapisujesz.
 
 ## Dopisywanie po ofercie i po rozmowie
 

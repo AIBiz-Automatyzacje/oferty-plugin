@@ -13,6 +13,14 @@ W Claude Code:
 
 Przy włączaniu pluginu Claude Code poprosi o **token Traferto** — wygeneruj go na ekranie Ustawienia w panelu [app.traferto.pl](https://app.traferto.pl). Token jest pokazywany tylko raz, a konto ma dokładnie jeden aktywny token (nowy unieważnia poprzedni). Plugin niesie adres serwera MCP, więc po wklejeniu tokenu nic więcej nie trzeba konfigurować.
 
+**Zasięg instalacji.** `/plugin install` w sesji włącza plugin domyślnie tylko dla katalogu, w którym siedzisz (`local`). Jeśli chcesz mieć skille w każdym projekcie, wybierz zasięg `user` w oknie instalacji albo zainstaluj z terminala:
+
+```
+claude plugin install traferto@oferty-plugin --scope user
+```
+
+**Gdzie leży token.** Claude Code zapisuje go w pęku kluczy systemu (macOS Keychain), nie w plikach konfiguracji — nie trafi do `~/.claude.json`, do kopii zapasowej ani do repozytorium przez przypadek. To nie znaczy, że jest niewidoczny dla samego Claude'a: proces działa na Twoich uprawnieniach, więc na wyraźne pytanie o token może go odczytać i wypisać w rozmowie. Traktuj transkrypt sesji jak plik z sekretem, a token wygeneruj na nowo, gdy padł w rozmowie.
+
 ## Co jest w środku
 
 Trzy skille, każdy do innego momentu pracy z klientem:

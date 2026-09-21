@@ -45,8 +45,11 @@ wobec bieli — weź z szablonu), `kroj` (z listy self-hostowanej; dziś `Inter`
 (ISO 8601, opcjonalna → 30 dni) oraz `mail: { temat, tresc }`.
 
 Mail: temat ≤ 120 znaków, treść ≤ 1200 znaków i ≤ 5 akapitów, znacznik `{{link}}` dokładnie raz,
-zdanie o terminie ważności (słowo „ważn…" lub „termin"), zakazane: „oferta online", „Traferto",
-„narzędzi…", „system", „wygenerowa…", „AI", „kliknij tutaj".
+zdanie o terminie ważności ze słowem „ważn…" lub „termin" **i datą dosłownie w formie `DD.MM.RRRR`**
+(np. „ważna do 12.10.2026" — serwer porównuje z `dataWygasniecia` w strefie `Europe/Warsaw`;
+„12 października" ani „12.10" nie przejdzie), zakazane: „oferta online", „Traferto",
+„narzędzi…", „system", „wygenerowa…", „AI", „kliknij tutaj". W treści maila żadnego adresu
+`http(s)://` — link wstawia serwer w miejsce znacznika.
 
 Wynik: `link`, `slug` (identyfikator z linku, część po `/o/`), `wygasa`, `mail` z wklejonym
 linkiem — ten tekst handlowiec kopiuje do swojego klienta pocztowego.

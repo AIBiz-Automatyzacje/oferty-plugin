@@ -47,6 +47,11 @@ handlowcowi do wklejenia. Pisz „w bibliotece", nie „w pliku na dysku".
 Zanim zaczniesz, ustal trzy rzeczy. Bez materiałów z rozmowy nie piszesz oferty, tylko dopytujesz;
 oferta bez rozmowy to katalog.
 
+- **Jest biblioteka?** Sprawdź, czy istnieje `biblioteka/`. Jeśli nie, pierwsze zdanie do
+  handlowca brzmi: „Nie masz jeszcze biblioteki — mogę ją założyć skillem `biblioteka` (kilka
+  minut), wtedy oferta dostanie prawdziwe realizacje i opinie zamiast pustych miejsc. Zakładamy
+  teraz czy piszę bez niej?". Nazwij skill po nazwie; sama wzmianka „ryzyko: brak biblioteki"
+  w środku listy pytań to za mało. Po jego decyzji pracuj dalej — nie blokuj oferty.
 - **Co jest źródłem?** Transkrypcje, notatki, maile. Jeśli nic nie ma, zatrzymaj się i poproś.
 - **Na jakim etapie jest klient?** Sam opowiada o problemie i pyta, jak do tego podejść (szuka
   koncepcji) / zadaje szczegółowe pytania o proces, gwarancję, osoby (edukuje się) / przychodzi
@@ -166,8 +171,9 @@ do ustaleń. Najwyżej pięć akapitów:
 2. jedno zdanie, jak oferta została zbudowana (od czego wyszliśmy) i dwie, trzy wartości,
    które wyjaśniają, skąd cena;
 3. umówiony następny krok z terminem;
-4. znacznik `{{link}}` dokładnie raz, goły, oraz zdanie o terminie ważności (słowo „ważn…"
-   albo „termin" musi paść — inaczej odmowa);
+4. znacznik `{{link}}` dokładnie raz, goły, oraz zdanie o terminie ważności: słowo „ważn…"
+   albo „termin" i data **dosłownie w formie `DD.MM.RRRR`**, ta sama co w `dataWygasniecia`
+   („ważna do 12.10.2026"; „12 października" serwer odrzuca);
 5. podpis.
 
 Bez „w załączniku przesyłam ofertę, w razie pytań zapraszam", bez „kliknij tutaj", bez słów
